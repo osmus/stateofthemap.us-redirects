@@ -1,0 +1,19 @@
+# These are here to handle links that used to point to stateofthemap.us/year
+
+/2012/*               https://2012.stateofthemap.us/:splat      301
+/2013/*               https://2013.stateofthemap.us/:splat      301
+/2014/*               https://2014.stateofthemap.us/:splat      301
+/2015/*               https://2015.stateofthemap.us/:splat      301
+/2016/*               https://2016.stateofthemap.us/:splat      301
+
+# Since we switched to redirects and domains in 2017, later years aren't needed, but they're nice to have anyway
+
+/2017/*               https://2017.stateofthemap.us/:splat      301
+/2018/*               https://2018.stateofthemap.us/:splat      301
+/2019/*               https://2019.stateofthemap.us/:splat      301
+/2020/*               https://2022.stateofthemap.us/:splat      301
+/2021/*               https://2022.stateofthemap.us/:splat      301
+/2022/*               https://2022.stateofthemap.us/:splat      301
+
+# The bare site should stay a 302 to the current year's site.
+/*                    https://2023.stateofthemap.us/:splat      302
