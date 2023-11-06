@@ -15,6 +15,7 @@
 /2021/*               https://2022.stateofthemap.us/:splat      301
 /2022/*               https://2022.stateofthemap.us/:splat      301
 /2023/*               https://2023.stateofthemap.us/:splat      301
+/2024/*               https://openstreetmap.us/events/state-of-the-map-us/2024/:splat      301
 
 # The bare site should stay a 302 to the current year's site.
 # /*                    https://2023.stateofthemap.us/:splat      302
